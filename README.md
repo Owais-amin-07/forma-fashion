@@ -8,3 +8,4 @@ We believe in fewer, better pieces — timeless essentials, natural fabrics, and
 Curated collections for Women, Men, Accessories and Essentials. Every product is selected for longevity, comfort, and minimalist design.
 
 **Essence:** Minimalist. Sustainable. Timeless.
+<img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/9dc8f5d3-ae85-4e28-bb63-784aba7cfb58" />
