@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { -webkit-font-smoothing: antialiased; }
+body { font-family: 'Inter', sans-serif; background: #fcfbf9; color: #0a0a0a; }
+
+.font-serif { font-family: 'Playfair Display', serif; }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #d6d2c8; border-radius: 10px; }
+
+.btn-primary {
+  @apply bg-[#0a0a0a] text-white px-8 py-3.5 text-[13px] tracking-[0.12em] uppercase font-medium hover:bg-[#222] transition-all duration-300;
+}
+.btn-outline {
+  @apply border border-[#0a0a0a] px-8 py-3.5 text-[13px] tracking-[0.12em] uppercase font-medium hover:bg-[#0a0a0a] hover:text-white transition-all duration-300;
+}
